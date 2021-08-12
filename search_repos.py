@@ -5,7 +5,12 @@ import requests
 class SearchRepos:
 
     def find_url(self, url_str):
-
+        '''
+        Description: This function is used to match the word against the list of URLs scraped from the
+        given website and return the matched URL.
+        input: url_str- takes input string to be matched against the list of url
+        output: url- returns the matched url against given the string
+        '''
         if len(url_str) == 0 or len(url_str) == 1:
             return "Input string too short"
 

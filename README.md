@@ -18,5 +18,5 @@ python3 city_distance.py
 - Assignment 2 [dictionary_search.py](https://github.com/MrRobo-t/Assignment/blob/main/dictionary_search.py)
 - Assignment 3 [city_distance.py](https://github.com/MrRobo-t/Assignment/blob/main/city_distance.py)
 - Assignment 4 [wifi.py](https://github.com/MrRobo-t/Assignment/blob/main/wifi.py)
-- Assignment 5 [lifts.py]
+- Assignment 5 [lifts.py](https://github.com/MrRobo-t/Assignment/blob/main/lifts.py)
 

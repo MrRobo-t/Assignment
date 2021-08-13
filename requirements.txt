@@ -1,0 +1,8 @@
+Please install below packages before running the programs:
+
+bs4
+requests
+decimal
+math
+stdiomask
+wireless

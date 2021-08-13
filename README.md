@@ -1,4 +1,4 @@
-# Assignment
+# Assessment
 
 ## Python version
   Python 3.7

@@ -11,7 +11,7 @@ pip install -r requirements.txt -- to install the required packages
 python3 city_distance.py 
 
 ## Clone Repository
-- Click on the link to clone repository [Assignment](https://github.com/MrRobo-t/Assignment.git)
+- Click on the link to clone repository [Python-assignment](https://github.com/MrRobo-t/Python-assignment.git)
 
 ## Answer Scripts
 - Assignemnt 1 [search_repos.py](https://github.com/MrRobo-t/Assignment/blob/main/search_repos.py)
